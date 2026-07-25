@@ -1,0 +1,6 @@
+streamlit>=1.33
+rfdetr
+huggingface_hub>=0.23
+pillow>=10.1.0
+numpy
+pandas
