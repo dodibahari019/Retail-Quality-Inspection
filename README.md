@@ -1,6 +1,5 @@
 ---
 title: Smart Retail Quality Inspection - RF-DETR-Nano
-emoji: 🍾
 colorFrom: blue
 colorTo: red
 sdk: streamlit
@@ -31,9 +30,9 @@ antarmuka Streamlit untuk demo publik.
 ├── requirements.txt
 ├── README.md
 ├── model/
-│   ├── best.pth          <- checkpoint hasil tahap modeling (WAJIB)
-│   └── metadata.json     <- opsional, ditampilkan di sidebar
-└── examples/              <- opsional, contoh gambar utk tab "Contoh Gambar"
+│   ├── best.pth          
+│   └── metadata.json     
+└── examples/              
     ├── contoh1.jpg
     └── contoh2.jpg
 ```
